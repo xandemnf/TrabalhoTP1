@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1569803874 source:c:\users\xande\desktop\unb\trabalhotp1\main.cpp
+	<iostream>
+	"menus.h"
+	<windows.h>
+	<mysql.h>
+	"querySQL.h"
+	"visualizarJogos.h"
+
+1569775478 c:\users\xande\desktop\unb\trabalhotp1\menuprincipal.h
+
+1569780253 source:c:\users\xande\desktop\unb\trabalhotp1\menuprincipal.cpp
+	<iostream>
+	<windows.h>
+	<exception>
+	"visualizarJogos.h"
+
+1569779094 c:\users\xande\desktop\unb\trabalhotp1\menus.h
+
+1569803284 c:\users\xande\desktop\unb\trabalhotp1\visualizarjogos.h
+
+1569803881 source:c:\users\xande\desktop\unb\trabalhotp1\visualizarjogos.cpp
+	<iostream>
+	"querySQL.h"
+
+1569712191 source:c:\users\xande\desktop\unb\trabalhotp1\cadastro.cpp
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Cadastro.h"
+
+1569710920 c:\users\xande\desktop\unb\trabalhotp1\cadastro.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Cidade.h"
+
+1569713140 c:\users\xande\desktop\unb\trabalhotp1\cidade.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1569712442 source:c:\users\xande\desktop\unb\trabalhotp1\cartao.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Cartao.h"
+
+1569712245 c:\users\xande\desktop\unb\trabalhotp1\cartao.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"date.h"
+
+1569627970 c:\users\xande\desktop\unb\trabalhotp1\date.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1569713136 source:c:\users\xande\desktop\unb\trabalhotp1\cidade.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Cidade.h"
+
+1569627970 source:c:\users\xande\desktop\unb\trabalhotp1\date.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"date.h"
+
+1569713360 source:c:\users\xande\desktop\unb\trabalhotp1\estadio.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Estadio.h"
+
+1569713359 c:\users\xande\desktop\unb\trabalhotp1\estadio.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1569713632 source:c:\users\xande\desktop\unb\trabalhotp1\estado.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Estado.h"
+
+1569713630 c:\users\xande\desktop\unb\trabalhotp1\estado.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1569714017 source:c:\users\xande\desktop\unb\trabalhotp1\ingresso.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Ingresso.h"
+
+1569714016 c:\users\xande\desktop\unb\trabalhotp1\ingresso.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"tipoJogo.h"
+
+1569715366 c:\users\xande\desktop\unb\trabalhotp1\tipojogo.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1569714477 source:c:\users\xande\desktop\unb\trabalhotp1\jogo.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Jogo.h"
+
+1569714475 c:\users\xande\desktop\unb\trabalhotp1\jogo.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"tipoJogo.h"
+	"date.h"
+
+1569803865 c:\users\xande\desktop\unb\trabalhotp1\querysql.h
+
+1569714682 source:c:\users\xande\desktop\unb\trabalhotp1\pagamento.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Pagamento.h"
+
+1569714672 c:\users\xande\desktop\unb\trabalhotp1\pagamento.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1569715137 source:c:\users\xande\desktop\unb\trabalhotp1\partida.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Partida.h"
+
+1569715136 c:\users\xande\desktop\unb\trabalhotp1\partida.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"date.h"
+
+1569715414 source:c:\users\xande\desktop\unb\trabalhotp1\tipojogo.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"tipoJogo.h"
+
+1569715946 source:c:\users\xande\desktop\unb\trabalhotp1\usuario.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"usuario.h"
+
+1569715878 c:\users\xande\desktop\unb\trabalhotp1\usuario.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1569804076 source:c:\users\xande\desktop\unb\trabalhotp1\querysql.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
