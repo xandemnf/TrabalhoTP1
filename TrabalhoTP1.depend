@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1569803874 source:c:\users\xande\desktop\unb\trabalhotp1\main.cpp
+1569810729 source:c:\users\xande\desktop\unb\trabalhotp1\main.cpp
 	<iostream>
 	"menus.h"
 	<windows.h>
@@ -9,17 +9,18 @@
 
 1569775478 c:\users\xande\desktop\unb\trabalhotp1\menuprincipal.h
 
-1569780253 source:c:\users\xande\desktop\unb\trabalhotp1\menuprincipal.cpp
+1569811198 source:c:\users\xande\desktop\unb\trabalhotp1\menuprincipal.cpp
 	<iostream>
 	<windows.h>
 	<exception>
 	"visualizarJogos.h"
+	"logar.h"
 
 1569779094 c:\users\xande\desktop\unb\trabalhotp1\menus.h
 
 1569803284 c:\users\xande\desktop\unb\trabalhotp1\visualizarjogos.h
 
-1569803881 source:c:\users\xande\desktop\unb\trabalhotp1\visualizarjogos.cpp
+1569805946 source:c:\users\xande\desktop\unb\trabalhotp1\visualizarjogos.cpp
 	<iostream>
 	"querySQL.h"
 
@@ -214,4 +215,10 @@
 	<iostream>
 	<windows.h>
 	<mysql.h>
+
+1569811379 source:c:\users\xande\desktop\unb\trabalhotp1\logar.cpp
+	<iostream>
+	"querySQL.h"
+
+1569810833 c:\users\xande\desktop\unb\trabalhotp1\logar.h
 

@@ -12,6 +12,7 @@ void visualizarJogos(){
    cin >> optVisualizarJogo;
   switch(optVisualizarJogo){
   case 1:
+      cout<<"Jogos Locais Selecionado!"<<endl;
       makeQuery("SELECT * FROM ESTADIO");
       break;
   case 2:

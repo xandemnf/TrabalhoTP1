@@ -2,9 +2,11 @@
 #include <list>
 #include <iostream>
 #include <assert.h>
-
 #include "Cadastro.h"
- using namespace std;
+
+using namespace std;
+
+
 
     int Cadastro::getId(){
 		return id;
@@ -45,3 +47,4 @@
 	void Cadastro::setNome(const string &nome) {
 			this->nome = nome;
 	}
+

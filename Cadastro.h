@@ -6,7 +6,6 @@
 #include <list>
 #include <iostream>
 #include <assert.h>
-
 #include "Cidade.h"
 
 class Cadastro
